@@ -36,7 +36,7 @@ This project is divided into four major parts:
 | `project-part2_39127676.docx`        | 💡 Linear Regression and additional analysis tasks         |
 | `Project_part3_39702120.docx`        | 🤖 Model selection, cross-validation, and regularization   |
 | `Project_part4_39702139.docx`        | 🧩 Unsupervised analysis with PCA and Clustering           |
-| `data/twitter_conversations.csv`     | (Not included) Large CSV dataset (place your data here)    |
+| `data/twitter_conversations.csv`     |  Large CSV dataset                                          |
 | `notebooks/.ipynb`    | 💻 Main project notebook with code, output, interpretations|
 
 ## 🛠️ How to Run
@@ -85,22 +85,15 @@ Feel free to fork, create pull requests, or open issues!
 
 ## 🙌 Credits
 
-- Project specs: [Your Institution]  
-- Dataset: Proprietary Twitter sample (2021)  
-- Developed by: *[Your Name]*
+ - Dataset: Proprietary Twitter sample (2021)  
+- Developed by: Hari Krishna*
 
 ## 💬 Contact
 
 Questions? Suggestions?  
-Open an issue in this repo or connect via [LinkedIn](https://www.linkedin.com/)!
+Open an issue in this repo or connect via [LinkedIn](https://www.linkedin.com/in/hk200202)!
 
 ## ⭐ Star this repo if you found it useful, and happy analyzing! 🚀
 
 🌈 **Let’s build a safer, more informed social media landscape together!**
 
-Let me know if you want this tailored for a specific username, repo name, or if you’d like a template for a requirements.txt as well!
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/83820565/10810339-df48-46fb-a114-a001fc7f0d78/project-part1_39127595.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/83820565/075d980e-0251-4810-a2cf-3c9e5f727d10/project-part2_39127676.docx
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/83820565/1b6443f6-5f00-4b00-aa3d-c58d90387275/Project_part3_39702120.docx
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/83820565/d354bd5a-d3ea-418a-ac94-e362aab6dec4/Project_part4_39702139.docx
