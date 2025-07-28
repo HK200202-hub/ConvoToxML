@@ -1,5 +1,5 @@
 # ConvoToxML
-Absolutely! Here’s a creative, emoji-rich README your Twitter Conversation Toxicity Analysis project, designed for a GitHub repo. This readme introduces your work, highlights the analytical methods, and guides users/reviewers through the project structure and files.
+
 
 # 🐦 Twitter Conversation Toxicity Analysis 🔎
 
